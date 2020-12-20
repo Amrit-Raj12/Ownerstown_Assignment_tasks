@@ -1,0 +1,4 @@
+Task 3:
+
+Based on the material UI Button, create a Button component in react-native which takes the same props as a material UI Button.
+Reference to Material UI Button API: https://material-ui.com/api/button/
